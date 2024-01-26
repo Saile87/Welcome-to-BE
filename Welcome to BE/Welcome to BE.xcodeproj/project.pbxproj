@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		561F015E2B64399000D1E0A3 /* NeueView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 561F015D2B64399000D1E0A3 /* NeueView.swift */; };
 		5653F1A12B60591700B9D343 /* Welcome_to_BEApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5653F1A02B60591700B9D343 /* Welcome_to_BEApp.swift */; };
 		5653F1A32B60591700B9D343 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5653F1A22B60591700B9D343 /* ContentView.swift */; };
 		5653F1A52B60591D00B9D343 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5653F1A42B60591D00B9D343 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		561F015D2B64399000D1E0A3 /* NeueView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NeueView.swift; sourceTree = "<group>"; };
 		5653F19D2B60591700B9D343 /* Welcome to BE.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Welcome to BE.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5653F1A02B60591700B9D343 /* Welcome_to_BEApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Welcome_to_BEApp.swift; sourceTree = "<group>"; };
 		5653F1A22B60591700B9D343 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				5653F1A02B60591700B9D343 /* Welcome_to_BEApp.swift */,
 				5653F1A22B60591700B9D343 /* ContentView.swift */,
+				561F015D2B64399000D1E0A3 /* NeueView.swift */,
 				5653F1A42B60591D00B9D343 /* Assets.xcassets */,
 				5653F1A62B60591D00B9D343 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				561F015E2B64399000D1E0A3 /* NeueView.swift in Sources */,
 				5653F1A32B60591700B9D343 /* ContentView.swift in Sources */,
 				5653F1A12B60591700B9D343 /* Welcome_to_BEApp.swift in Sources */,
 			);

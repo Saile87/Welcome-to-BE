@@ -11,7 +11,7 @@ import SwiftUI
 struct Welcome_to_BEApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView(neueView: NeueView())
         }
     }
 }
